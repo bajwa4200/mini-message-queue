@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+mini_message_queue.egg-info/PKG-INFO
+mini_message_queue.egg-info/SOURCES.txt
+mini_message_queue.egg-info/dependency_links.txt
+mini_message_queue.egg-info/requires.txt
+mini_message_queue.egg-info/top_level.txt
+minimq/__init__.py
+minimq/core.py
+tests/test_minimq.py
